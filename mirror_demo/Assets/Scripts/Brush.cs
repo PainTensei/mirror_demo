@@ -12,7 +12,7 @@ public class Brush : MonoBehaviour
     private string color = "red";
     void Start()
     {
-        
+        Cursor.visible = false;
     }
 
     // Update is called once per frame
