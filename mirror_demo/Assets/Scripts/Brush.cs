@@ -9,7 +9,7 @@ public class Brush : MonoBehaviour
     public TrailRenderer trailRendererRed;
     public TrailRenderer trailRendererBlue;
     public TrailRenderer trailRendererGreen;
-    private string color;
+    private string color = "red";
     void Start()
     {
         
